@@ -32,8 +32,7 @@ Mục tiêu dự án là phân tích dữ liệu Google Play Store để xác đ
 - Content rating ảnh hưởng rating không?
 
 ## 6. Dashboard
-
-
+![Dashboard](Power%20Bi/Dashboard_tong_quan.png)
 
 ## 7. Key Insights
 - Education apps có rating cao nhưng ít app
