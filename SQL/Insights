@@ -1,0 +1,64 @@
+1. Category nào có rating trung bình cao nhất
+Insight
+- Một số category có rating trung bình rất cao nhưng số lượng app ít (ví dụ Education, Events, Art & Design…).
+Ý nghĩa:
+- Đây là thị trường ngách: người dùng hài lòng, nhưng ít nhà phát triển tham gia → cạnh tranh thấp.
+Hành động:
+Developer mới nên ưu tiên các category này để:
+- Dễ đạt rating cao
+- Dễ nổi bật hơn trên store
+- Giảm chi phí marketing
+
+2️. App miễn phí vs trả phí – app nào rating cao hơn?
+Insight:
+- App trả phí có rating trung bình cao hơn app miễn phí
+- Nhưng số lượng installs thấp hơn rất nhiều
+Ý nghĩa:
+Người dùng trả tiền có kỳ vọng cao, nhưng:
+- Khi đã trả tiền → họ chọn lọc kỹ
+- App trả phí thường chất lượng tốt hơn → rating cao
+- App miễn phí dễ tiếp cận hơn nên installs lớn, nhưng rating phân tán
+Hành động
+- Free app + In-app purchase (App miến phĩ nhưng mua trực tiếp trong app)
+- Hoặc Freemium model (Mua thì miễn phí nhưng cần trả tiền để mở đầy đủ)
+3️. Size app có ảnh hưởng tới rating không?
+Insight:
+App lớn (Large/Huge) không có rating cao hơn đáng kể so với app nhỏ
+Ý nghĩa:
+Người dùng không quá quan tâm đến dung lượng app nếu so sanh vì tính năng
+App nhẹ, tối ưu tốt vẫn được rating cao
+Hành động:
+Tập trung cải thiện tính năng của app.
+
+4️. Mối quan hệ giữa installs & reviews
+Insight:
+- Khi installs tăng, số reviews trung bình tăng rất mạnh
+- Mối quan hệ gần tuyến tính (correlation cao)
+Ý nghĩa:
+Review không phải ngẫu nhiên, mà là hệ quả của scale
+App lớn → nhiều feedback → dễ cải thiện hơn
+Hành động
+Với app mới:
+- Tạo cơ chế khuyến khích review sớm
+- Đẩy installs trước để kích hoạt vòng lặp reviews
+
+5️. App bị rating thấp (<3)
+Insight:
+- Các app rating thấp tập trung ở một số category nhất định
+Ý nghĩa
+Một số category có:
+- Trải nghiệm người dùng kém (Load chậm, nhiều quảng cáo chạy)
+- Lỗi kỹ thuật nhiều
+- Kỳ vọng người dùng cao
+Hành động:
+- Nếu tham gia category đó → cần đầu tư về chất lượng, hiệu năng nhiều hơn
+- Hoặc tránh nếu nguồn lực ít
+
+6️. Category có tỷ lệ app trả phí cao
+Insight
+- Một số category có tỷ lệ app trả phí cao bất thường (ví dụ Business, Tools, Medical…)
+Ý nghĩa
+- Người dùng sẵn sàng trả tiền trong các category giải quyết vấn đề thực tế
+- Đây là nhóm có khả năng kiếm tiền tốt
+Hành động
+- Nếu làm SaaS(Phần mềm dạng dịch vụ) / productivity → chọn các category này
